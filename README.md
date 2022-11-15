@@ -1,4 +1,12 @@
-### Hi there, I'm Margarita 👋
+<h1 align="center">Hi there, I'm Margarita 👋</h1>
+<h3 align="center">Full Stack Web Developer</h3>
+<br />
+I am an educator-turned-full stack developer whose goal is to create useful web applications that offer a human-first user experience.
+<br />
+<br />
+<br />
+<br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mamarmar)](https://git.io/streak-stats)
 
 <!--
 **mamarmar/mamarmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
