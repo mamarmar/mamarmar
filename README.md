@@ -6,7 +6,13 @@ I am an educator-turned-full stack developer whose goal is to create useful web 
 <br />
 <br />
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mamarmar)](https://git.io/streak-stats)
+<h3 align="center">Connect with me:</h3>
+<a href=”https://www.linkedin.com/in/margarita-marmaridou/"><img align=”left” src=”https://raw.githubusercontent.com/mamarmar/mamarmar/main/icons/linkedin.png" alt=”Margarita” width=”21px”/></a>
+<p align=”center”>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mamarmar)](https://github.com/mamarmar)
+  </p>
+
 
 <!--
 **mamarmar/mamarmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
