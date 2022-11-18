@@ -8,7 +8,7 @@
 
 <br>
 
-<p>I am an educator-turned-full stack developer whose goal is to create useful web applications that offer a human-first user experience. </p>
+<p>I am an educator-turned-web developer whose goal is to create useful web applications that offer a human-first user experience. </p>
 
 <br>
 
