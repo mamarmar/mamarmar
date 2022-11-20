@@ -8,7 +8,7 @@
 
 <br>
 
-<p>I am an educator-turned-web developer whose goal is to create useful web applications that offer a human-first user experience. </p>
+<p>I am an educator-turned-web developer whose goal is to create useful web applications that offer a human-first user experience. I enjoy making cute things: drawings and illustrations, baking creations and, of course, web apps! </p>
 
 <br>
 
