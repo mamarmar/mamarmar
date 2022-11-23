@@ -4,11 +4,11 @@
   , I'm Margarita (she / her)
 </h1>
 
-<h3 align="center">Full Stack Web Developer</h3><br>
+<h3 align="center">Full - Stack Web Developer</h3><br>
 
 <br>
 
-<p>I am an educator-turned-web developer whose goal is to create useful web applications that offer a human-first user experience. I enjoy making cute things: drawings and illustrations, baking creations and, of course, web apps! </p>
+<p>I am a full-stack developer, passionate about creating useful applications that offer a human-first user experience; a career switcher who has recently discovered her love for web development, constantly seeking to challenge herself by expanding her skillset. I enjoy making cute things: drawings and illustrations, baking creations and, of course, web apps! </p>
 
 <br>
 
