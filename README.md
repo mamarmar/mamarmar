@@ -4,7 +4,7 @@
   , I'm Margarita (she / her)
 </h1>
 
-<h3 align="center">Full - Stack Web Developer</h3><br>
+<h3 align="center">Full-Stack Web Developer</h3><br>
 
 <br>
 
