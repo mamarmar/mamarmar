@@ -10,7 +10,7 @@
 
 <p>I am a full-stack developer, passionate about creating useful applications that offer a human-first user experience; a career switcher who has recently discovered her love for web development, constantly seeking to challenge herself by expanding her skillset. I enjoy making cute things: drawings and illustrations, baking creations and, of course, web apps! </p>
 <br>
-I am currently learning <a href="https://www.typescriptlang.org/">TypeScript</a>.
+:book: I am currently learning <a href="https://www.typescriptlang.org/">TypeScript</a>.
 <br>
 
 <div align="center">
